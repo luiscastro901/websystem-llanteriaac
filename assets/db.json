@@ -1,0 +1,158 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Luis",
+      "apellido": "Castro",
+      "dni": 70125053,
+      "email": "castroluisss901@gmail.com",
+      "telefono": 980678666,
+      "direccion": "Av. Los Ficus",
+      "estadoCivil": "soltero",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "2",
+      "nombre": "Daniel",
+      "apellido": "Casas",
+      "dni": 98605078,
+      "email": "daniel999@gmail.com",
+      "telefono": 968700900,
+      "direccion": "Calle Las Manzanas",
+      "estadoCivil": "casado",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "3",
+      "nombre": "Diego",
+      "apellido": "Valencia",
+      "dni": 85906478,
+      "email": "valenciadiego@gmail.com",
+      "telefono": 930212945,
+      "direccion": "Av. Los Ficus",
+      "estadoCivil": "casado",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "4",
+      "nombre": "Andrés",
+      "apellido": "Olaya",
+      "dni": 50608931,
+      "email": "olayaan800@gmail.com",
+      "telefono": 967855663,
+      "direccion": "Av. Los Ficus",
+      "estadoCivil": "casado",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "5",
+      "nombre": "Michael",
+      "apellido": "Castillo",
+      "dni": 97756240,
+      "email": "castroluisss901@gmail.com",
+      "telefono": 981123890,
+      "direccion": "Av. Los Ficus",
+      "estadoCivil": "casado",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "6",
+      "nombre": "Lisa",
+      "apellido": "Alva",
+      "dni": 56786061,
+      "email": "alvalisa902@gmail.com",
+      "telefono": 976599050,
+      "direccion": "Av. Los Ficus",
+      "estadoCivil": "soltero",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Office-Girl-icon.png"
+    },
+    {
+      "id": "7",
+      "nombre": "Alex",
+      "apellido": "Caceres",
+      "dni": 76543210,
+      "email": "caceresss@gmail.com",
+      "telefono": 987654321,
+      "direccion": "Calle Principal",
+      "estadoCivil": "soltero",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "8",
+      "nombre": "Ana",
+      "apellido": "González",
+      "dni": 89012345,
+      "email": "anagonzalez@gmail.com",
+      "telefono": 989876543,
+      "direccion": "Avenida Central",
+      "estadoCivil": "casada",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Office-Girl-icon.png"
+    },
+    {
+      "id": "9",
+      "nombre": "Eduardo",
+      "apellido": "Mendoza",
+      "dni": 65432109,
+      "email": "edumendoza@gmail.com",
+      "telefono": 991234567,
+      "direccion": "Calle de la Luna",
+      "estadoCivil": "soltero",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "10",
+      "nombre": "Laura",
+      "apellido": "Fuentes",
+      "dni": 12345678,
+      "email": "lauratorres@gmail.com",
+      "telefono": 992345678,
+      "direccion": "Calle del Sol",
+      "estadoCivil": "casada",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Office-Girl-icon.png"
+    },
+    {
+      "id": "11",
+      "nombre": "Miguel",
+      "apellido": "Pérez",
+      "dni": 87654321,
+      "email": "sergioperez@gmail.com",
+      "telefono": 993456789,
+      "direccion": "Avenida del Bosque",
+      "estadoCivil": "soltero",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "12",
+      "nombre": "María",
+      "apellido": "Melendez",
+      "dni": 10987654,
+      "email": "mariahernandez@gmail.com",
+      "telefono": 994567890,
+      "direccion": "Calle de las Flores",
+      "estadoCivil": "casada",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Office-Girl-icon.png"
+    },
+    {
+      "id": "13",
+      "nombre": "Juan",
+      "apellido": "Vargas",
+      "dni": 76543210,
+      "email": "juanvargas@gmail.com",
+      "telefono": 995678901,
+      "direccion": "Avenida del Mar",
+      "estadoCivil": "soltero",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Administrator-icon.png"
+    },
+    {
+      "id": "14",
+      "nombre": "Ayla",
+      "apellido": "Martínez",
+      "dni": 89012345,
+      "email": "carlamartinez@gmail.com",
+      "telefono": 996789012,
+      "direccion": "Calle del Río",
+      "estadoCivil": "casada",
+      "foto": "https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/72/Office-Girl-icon.png"
+    }
+  ]
+}
